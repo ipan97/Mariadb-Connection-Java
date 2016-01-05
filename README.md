@@ -1,7 +1,7 @@
 #Config Connection Mariadb Database java #
 
-Dowonload driver [Download Here](central.maven.org/maven2/org/mariadb/jdbc/mariadb-java-client/1.3.3/mariadb-java-client-1.3.3.jar) 
-Download Common DBCP for connection Pooling [Download Here](central.maven.org/maven2/commons-dbcp/commons-dbcp/1.4/commons-dbcp-1.4.jar) 
+Dowonload driver [Download Here](http://mvnrepository.com/artifact/org.mariadb.jdbc/mariadb-java-client/1.3.3) 
+Download Common DBCP for connection Pooling [Download Here](http://mvnrepository.com/artifact/commons-dbcp/commons-dbcp/1.4) 
 or maven :
 
 ``` xml
